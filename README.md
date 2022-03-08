@@ -84,11 +84,9 @@
 
 [website]: https://amir-nadimi.ir
 
-[aparat]: https://aparat.com/amirmasoudnadimi
+[telegram]: http://t.me/amirmnadimi
 
-[telegram]: http://t.me/amirmasoudnadimi
-
-[instagram]: https://instagram.com/amirmasoudnadimi
+[instagram]: https://instagram.com/amirmnadimi
 
 [youtube]: https://youtube.com/
 
